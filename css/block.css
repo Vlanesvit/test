@@ -11,6 +11,8 @@
 	padding-left: 12px;
 	padding-right: 12px;
 	margin: 0 auto;
+	border: 1px solid red;
+	outline: 1px solid red;
 }
 
 .block__grid {
